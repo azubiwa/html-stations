@@ -14,5 +14,8 @@
   "scripts": {
     "station2:prettier": "prettier -c ./src/station2.html",
     "serve": "lite-server"
+  },
+  "dependencies": {
+    "yarn": "^1.22.22"
   }
 }
